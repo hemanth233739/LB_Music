@@ -21,7 +21,7 @@ LOGGER_ID = int(getenv("LOGGER_ID"))
 LOG_GROUP_ID = int(getenv("LOG_GROUP_ID"))
 
 # Get this value Telegram ID
-OWNER_ID = int(getenv("OWNER_ID", "5016109398"))
+OWNER_ID = int(getenv("OWNER_ID", "7074356361"))
 
 # Heroku configuration
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
