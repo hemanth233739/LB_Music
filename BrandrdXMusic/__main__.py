@@ -3,6 +3,7 @@ import importlib
 from sys import exit
 from pyrogram import idle
 from pytgcalls.exceptions import NoActiveGroupCall
+from BrandrdXMusic.config import config
 from config import config  # Fixed import statement
 from BrandrdXMusic import LOGGER, app, userbot
 from BrandrdXMusic.core.call import Hotty
